@@ -1,0 +1,56 @@
+header{
+    background-color: lightgrey;
+    margin: -7.8px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    border: solid black;
+    border-radius: 9.8px;
+    
+}
+
+.t{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 30px;  
+    margin-right: 30px;
+      
+}
+
+#h{
+    color: black;
+    text-decoration: none;
+}
+
+#l{
+    color: black;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(71, 3, 3);
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    max-width: 100px;
+}
+
+.alba{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px
+}
+#FTL{
+    max-width: 200px;
+}
+
+#IS{
+    max-width: 200px;
+}
+
+#LIP{
+    max-width: 200px;
+}
