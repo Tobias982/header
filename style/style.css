@@ -1,3 +1,7 @@
+main{
+    height: 640px;
+}
+
 header{
     background-color: lightgrey;
     margin: -7.8px;
@@ -53,4 +57,31 @@ body{
 
 #LIP{
     max-width: 200px;
+}
+
+footer{
+    background-color: grey;
+    padding: 50px;
+    margin: -10px;
+    max-height: 100px;
+}
+
+.footerloga{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 1000px;
+}
+
+.linky{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 800px;
+    padding: 10px 36px;
+    gap: 30px;
+    border-bottom: 1px solid black;
+}
+
+.lor{
+    display: flex;
+    justify-content: center;
 }
